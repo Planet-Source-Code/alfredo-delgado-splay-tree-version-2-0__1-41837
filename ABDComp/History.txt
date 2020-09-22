@@ -1,0 +1,3 @@
+December 23, 2002 Added a run length encoding before splay tree compression
+                             Use the module in a good project for compressing/expanding single files
+December 19, 2002 First Release of splay module
